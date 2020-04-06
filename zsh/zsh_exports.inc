@@ -1,0 +1,1 @@
+export PATH="/usr/local/opt/openjdk@11/bin:$PATH"
